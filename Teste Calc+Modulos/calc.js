@@ -1,3 +1,4 @@
+// Calculadora básica com números fixos e com funções em um único .Js
 function soma(a,b) {
     return a+b
 }
